@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>tsinghua.bmp</file>
+    </qresource>
+</RCC>
